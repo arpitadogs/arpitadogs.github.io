@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: page
 permalink: /assets/pdf/cv.pdf
 title: Vitaé
 description: My CV
 nav: true
-nav_order: 4
+nav_order: 2
 ---
